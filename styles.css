@@ -64,3 +64,11 @@ b {
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
 }
+
+th {
+  background-color: #0A82F7;
+}
+
+td {
+  background-color: white;
+}
